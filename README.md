@@ -110,6 +110,7 @@ scripts/         빌드와 검증 명령
 
 그 밖의 문서:
 
+- [인터랙티브 시스템 구성도와 Stage별 흐름](visualization/README.md)
 - [Android 클라이언트 계획](docs/05-android-client-plan.md)
 - [Architecture Decision Records](docs/adr/)
 - [Codex와 Claude Code 작업 규칙](AGENTS.md)
